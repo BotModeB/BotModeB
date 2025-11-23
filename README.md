@@ -36,9 +36,9 @@
 
 ### 📈 Моя активность на GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)](https://github.com/YOUR-USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BotModeB&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)](https://github.com/BotModeB)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide=html,css,javascript,python&exclude_repo=YOUR-USERNAME)](https://github.com/YOUR-USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BotModeB&layout=compact&theme=radical&hide=html,css,javascript,python&exclude_repo=BotModeB)](https://github.com/BotModeB)
 
 ---
 
