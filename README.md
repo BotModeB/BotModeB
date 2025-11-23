@@ -22,7 +22,7 @@
 
 **📱 Социальная сеть для текстового контента** 
 
-🚧 *В процессе активной переработки архитектуры*
+*В процессе активной переработки архитектуры*
 
 **Что было:**
 - Первая реализация социальной сети с базовым функционалом
@@ -36,8 +36,9 @@
 
 ### 📈 Моя активность на GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_title=true)](https://github.com/YOUR-USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide=html,css)](https://github.com/YOUR-USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)](https://github.com/YOUR-USERNAME)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide=html,css,javascript,python&exclude_repo=YOUR-USERNAME)](https://github.com/YOUR-USERNAME)
 
 ---
 
