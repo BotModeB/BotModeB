@@ -36,9 +36,11 @@
 
 ### 📈 Моя активность на GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BotModeB&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)](https://github.com/BotModeB)
+[[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BotModeB&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)](https://github.com/BotModeB)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BotModeB&layout=compact&theme=radical&hide=html,css,javascript,python&exclude_repo=BotModeB)](https://github.com/BotModeB)
+[![Top Languages](https://vercel.app)](https://github.com/BotModeB)
+
+
 
 ---
 
